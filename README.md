@@ -340,47 +340,6 @@ L’étape d’export enregistre notamment :
 
 
 
-\## Membres du groupe
-
-
-
-1\. MATONDO BWAYI PLAMEDI
-
-2\. PHOLO KUVELA JEAN
-
-3\. NSAKALA BIMUALA STEVE
-
-4\. MUMBARAKA GEMBESSE
-
-5\. MUENGE KASONGA ASTRID
-
-6\. MASIALA MATAKOBA LEONARD
-
-7\. MANYA EWEY DIEUMERCI
-
-8\. KAPENA MULOPO Danny
-
-9\. MAKOLO NGALAMULUME JOSEPH
-
-10\. AMISI FATAKI JUBILE
-
-
-
-\## Encadrement
-
-
-
-\- \*\*Université :\*\* Université de Kinshasa
-
-\- \*\*Faculté :\*\* Sciences et Technologies
-
-\- \*\*Cours :\*\* Reconnaissance de forme
-
-\- \*\*Enseignant :\*\* Prof. J. D. Batubenga
-
-\- \*\*Encadrant :\*\* Alidor Mbayandjambe M.
-
-\- \*\*Année académique :\*\* 2025–2026
 
 
 
