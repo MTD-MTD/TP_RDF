@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+NEU-CLS-64/
+NEU-CLS-64.zip
+dataset_SVM_*/
+resultats_TP/
+Untitled.ipynb
